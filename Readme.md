@@ -1,11 +1,11 @@
 # PPT-Generator
 
 
-# 📊 PPTify Auto-Generate a Presentation from Text
+# 📊 PPTify - Auto Generate a Presentation from Text
 
 **Your Text, Your Style – Turn bulk text or markdown into a polished PowerPoint presentation.**
 
-Gyaan Deck is a lightweight web app that lets anyone paste long-form text (markdown, prose, notes, reports) and instantly convert it into a styled, ready-to-present PowerPoint deck. Simply upload your own template, add optional guidance, and supply your preferred LLM API key — the app will handle the rest.
+PPTify is a lightweight web app that lets anyone paste long-form text (markdown, prose, notes, reports) and instantly convert it into a styled, ready-to-present PowerPoint deck. Simply upload your own template, add optional guidance, and supply your preferred LLM API key — the app will handle the rest.
 
 ---
 
